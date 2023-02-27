@@ -1,4 +1,2 @@
-cho
-!/bon/bash
-ALX
-echo ALX
+#!/bin/bashr
+echo "ALX"
